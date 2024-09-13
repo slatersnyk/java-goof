@@ -10,8 +10,8 @@
     <url>https://github.com/snyk/java-goof</url>
 
     <properties>
-        <spring.version>3.2.6.RELEASE</spring.version>
-        <hibernate.version>4.3.7.Final</hibernate.version>
+        <spring.version>3.2.18.RELEASE</spring.version>
+        <hibernate.version>4.3.11.Final</hibernate.version>
         <tapestry.version>5.3.8</tapestry.version>
         <struts2.version>2.3.20</struts2.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -28,17 +28,17 @@
         <dependency>
             <groupId>javax.xml.bind</groupId>
             <artifactId>jaxb-api</artifactId>
-            <version>2.3.0</version>
+            <version>2.3.1</version>
         </dependency>
         <dependency>
             <groupId>com.sun.xml.bind</groupId>
             <artifactId>jaxb-core</artifactId>
-            <version>2.3.0</version>
+            <version>2.3.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.sun.xml.bind</groupId>
             <artifactId>jaxb-impl</artifactId>
-            <version>2.3.0</version>
+            <version>2.3.9</version>
         </dependency>
     </dependencies>
 
